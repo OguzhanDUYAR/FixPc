@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/OguzhanDUYAR/WizFix)
+[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/OguzhanDUYAR/FixPc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OguzhanDUYAR/WizFix/commits/main)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
@@ -71,10 +71,10 @@ To get a copy of WizFix up and running on your local machine, follow these simpl
 ### Installation & Usage
 
 1.  **Download the Script**
-    * Go to the [Releases](https://github.com/OguzhanDUYAR/WizFix/releases) page and download the latest version of `WizFix_by_OguzhanDuyar.ps1`.
+    * Go to the [Releases](https://github.com/OguzhanDUYAR/FixPc/releases) page and download the latest version of `WizFix_by_OguzhanDuyar.ps1`.
     * Or, simply clone the repo:
         ```sh
-        git clone [https://github.com/](https://github.com/)OguzhanDUYAR/WizFix.git
+        git clone [https://github.com/](https://github.com/)OguzhanDUYAR/FixPc.git
         ```
 
 2.  **Allow Script Execution**
@@ -117,6 +117,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Oğuzhan Duyar - 
 
-Project Link: [https://github.com/OguzhanDUYAR/WizFix](https://github.com/OguzhanDUYAR/WizFix)
+Project Link: [https://github.com/OguzhanDUYAR/FixPc](https://github.com/OguzhanDUYAR/FixPc)
 
 
