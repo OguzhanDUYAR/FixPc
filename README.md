@@ -11,7 +11,7 @@
 
 [![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/OguzhanDUYAR/FixPc)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OguzhanDUYAR/WizFix/commits/main)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/OguzhanDUYAR/FixPc/commits/main)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 </div>
