@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" alt="WizFix Logo" width="200"/>
+  <img src="WizFix.png" alt="WizFix Logo" width="200"/>
 
   # WizFix: The Magical Windows 11 Maintenance Tool
   **Authored by Oğuzhan Duyar**
